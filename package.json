@@ -1,0 +1,12 @@
+{
+    "name": "travel-agency-api",
+    "version": "1.0.0",
+    "description": "Travel Agency Trips API - Lab 5.2",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^5.1.0"
+    }
+}
